@@ -1,13 +1,13 @@
-## Objectifs d'apprentissage
+# Objectifs d'apprentissage
 
 * Installer et configurer Git et GitHub.
 * Expliquer ce que sont Git et GitHub et les différences entre les deux.
 * Décrire les différences entre Git et un éditeur de texte en termes de ce qu'ils sauvegardent et de leur archivage.
 * Décrire pourquoi Git est utile pour un développeur individuel et une équipe de développeurs.
 
-## Travail à faire
+# Travail à faire
 
-1. Documentation
+## 1. Documentation
 Voici une liste de ressources qui pourrons vous aider à atteindre l'objectif de l'atelier :
 
 * Lisez les chapitres 1.1 à 1.4 de ce [livre](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) sur les systèmes de contrôle de version pour connaître les différences entre les systèmes de contrôle de version locaux, centralisés et distribués.
@@ -16,7 +16,7 @@ Voici une liste de ressources qui pourrons vous aider à atteindre l'objectif de
 
 Notez bien ces ressources sont des recommandations.Donc, si vous avez des ressources supplémentaires, n'hésitez pas à les partager sur discord pour que tous le monde puisse en bénéficier.
 
-2. Installation Git (sous Linux)
+## 2. Installation Git (sous Linux)
 
 ### 2.1 Mise à jour du système
 
