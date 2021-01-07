@@ -9,7 +9,7 @@
 
  
 
-```Algorithme: ensemble de règles qui définissent une séquence d’opérations. Ce sont des séries d’instructions qui indiquent à un ordinateur comment il est censé résoudre un problème ou atteindre un certain objectif.```
+`Algorithme: ensemble de règles qui définissent une séquence d’opérations. Ce sont des séries d’instructions qui indiquent à un ordinateur comment il est censé résoudre un problème ou atteindre un certain objectif.`
 
  
 ```Algorithme: c’est en quelque sorte une recette de cuisine: on prend certains ingrédients qu’il s’agit de mettre dans le bon ordre pour réaliser le plat souhaité, simplifie le sociologue Dominique Cardon.```
